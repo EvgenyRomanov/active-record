@@ -1,4 +1,4 @@
-# 🔄 Active Record Demo Project
+# 🔄 Active Record (demo)
 
 ## 📝 Описание
 Данный demo-проект является примером реализации паттерна Active Record для произвольной таблицы.
